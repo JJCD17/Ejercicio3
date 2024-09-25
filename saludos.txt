@@ -1,3 +1,5 @@
+<<<<<<< HEAD
 Hola Jonathan Cobos
 Bonjour Jonathan Cobos
 Hello
+Kon'nichiwa Jonathan Cobos
